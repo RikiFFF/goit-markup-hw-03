@@ -18,6 +18,7 @@
 }
 .main-footer {
   background: #2e2f42;
+  padding: 100px 0;
 }
 .main-footer p {
   font-family: "Roboto", sans-serif;
@@ -34,5 +35,4 @@
   justify-content: flex-start;
   flex-direction: column;
   gap: 16px;
-  padding: 100px 0;
 }
