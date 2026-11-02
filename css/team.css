@@ -31,3 +31,26 @@
   text-align: center;
   color: #434455;
 }
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  
+}
+.main-team h2 {
+  margin-bottom: 72px;
+}
+.list-container h3 {
+  margin-top: 24px;
+  margin-bottom: 8px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.list-container p{
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-bottom: 32px;
+} 
+  
+  
+

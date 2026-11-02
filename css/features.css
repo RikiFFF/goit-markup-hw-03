@@ -22,3 +22,8 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.main-list-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
