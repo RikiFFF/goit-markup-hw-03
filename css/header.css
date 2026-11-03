@@ -14,9 +14,8 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-
-  margin-top: 24px;
-  margin-bottom: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .main-nav li > a {
   font-family: "Roboto", sans-serif;
@@ -62,10 +61,10 @@
 }
 .main-nav {
   display: flex;
-  width: 253px;
-
   align-items: flex-start;
   gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .adress-list {
@@ -73,8 +72,6 @@
   gap: 40px;
   align-items: center;
   justify-content: flex-start;
-  width: 344px;
-  height: 72px;
   padding-top: 24px;
   padding-bottom: 24px;
 }

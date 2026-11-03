@@ -21,8 +21,12 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  margin-top: 8px;
 }
 .main-list-container {
   display: flex;
   gap: 24px;
+}
+.main-list-container li {
+  width: calc((100% - 72px) / 4);
 }

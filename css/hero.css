@@ -16,6 +16,8 @@
   align-items: center;
   flex-direction: column;
   gap: 48px;
+}
+.main-hero.section {
   padding-top: 188px;
   padding-bottom: 188px;
 }
